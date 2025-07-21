@@ -25,8 +25,7 @@ Currently:
 |------------------|----------------------------------------------------------------------------------|----------------------------------------|
 | **English ↔ Turkish** | Financial/legal content, AI training data, corporate & legal documents           | Trados, SmartCAT, Jira, Pontoon        |
 | **Chinese → English/Turkish** | Marketing copy, technical docs, educational material                        | Subtitle Workshop, SmartCAT, Aegisub   |
-| **Russian → English** | Reports, official documents (reading-focused)                                 | Office Suite                           |
-| **Korean → English** | Media & cultural comprehension (reading/listening)                             | N/A                                    |
+
 
 ---
 
